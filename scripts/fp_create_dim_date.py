@@ -41,7 +41,7 @@ for date in date_range:
 
 # Create a DataFrame from the lists
 df = pd.DataFrame({
-    'sk_time': surrogate_keys,
+    'sk_date': surrogate_keys,
     'date_th': dates,
     'year_th': years,
     'month_th': months,
