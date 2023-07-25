@@ -1,7 +1,7 @@
 # Building Flights Data Pipeline using Apache Airflow
 
 ## [Project Overview]
-Project ini merupakan tugas akhir saya sebagai Data Engineer Trainee pada Celerates Acceleration Program (CAP) 2023. Melalui project ini, saya akan melakukan ekstraksi data (sesuai _case_ dan _business process_ yang dipilih) yang berasal dari berbagai sumber, kemudian menerapkan beberapa teknik transformasi data, hingga menyimpannya ke dalam database terstruktur (Data Warehouse) agar dapat digunakan untuk kebutuhan analisa lebih lanjut. Lebih lanjut, keseluruhan proses dari awal-akhir tentu akan di-_schedule_ agar dapat dijalankan secara otomatis sesuai rentang waktu yang diinginkan.
+Project ini merupakan tugas akhir saya sebagai Data Engineer Trainee pada Celerates Acceleration Program (CAP) 2023. Melalui project ini, saya akan melakukan ekstraksi data (sesuai _case_ dan _business process_ yang dipilih) yang berasal dari berbagai sumber, kemudian menerapkan beberapa teknik transformasi data, hingga menyimpannya ke dalam database terstruktur (Data Warehouse) agar dapat digunakan untuk kebutuhan analisa lebih lanjut. Kemudian, keseluruhan proses dari awal-akhir tentu akan di-_schedule_ agar dapat dijalankan secara otomatis sesuai rentang waktu yang diinginkan.
 
 ## [Requirements]
 Project ini dijalankan pada _environment_ Linux OS (Ubuntu 20.04), dengan [MobaXterm](https://mobaxterm.mobatek.net/) sebagai tools yang memungkinkan pengguna me-render tampilan aplikasi yang berjalan di Linux melalui perangkat Windows, serta [Visual Studio Code](https://code.visualstudio.com/) sebagai code editor. Berikut adalah _requirement_ lain yang digunakan untuk menjalankan project ini.
